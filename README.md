@@ -30,7 +30,7 @@ Data yang disajikan adalah hasil penggabungan pendapat para ahli, pemangku kepen
 0. :star: to the project. Yeehaa! :metal:
 1. Fork the [project](https://github.com/bangkoor/broilerfarmloc/fork) or simply download the zip file
 2. Copy to your htdocs
-3. Upload file database.sql ke database Postgre anda.
+3. Upload file database_broiler.sql ke database Postgre anda.
 4. Edit the config.php file. Sesuaikan dengan pengaturan anda
 5. And its live!
 
