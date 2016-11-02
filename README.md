@@ -1,9 +1,9 @@
 <p align="center">
   <h2 align="center">BroilerFarmloc Master</h2>
-  Mobile-based Expert System for Selecting Broiler Farm Location
+  <p align="center">Mobile-based Expert System for Selecting Broiler Farm Location</p>
 </p>
 <p align="center">
-<img src="https://github.com/bangkoor/broilerfarmloc/blob/master/images/icon.png"/>
+<img width="40%" src="https://github.com/bangkoor/broilerfarmloc/blob/master/images/icon.png"/>
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ Data yang disajikan adalah hasil penggabungan pendapat para ahli, pemangku kepen
 0. :star: to the project. Yeehaa! :metal:
 1. Fork the [project](https://github.com/bangkoor/broilerfarmloc/fork) or simply download the zip file
 2. Copy to your htdocs
-3. Edit the config.php file. Sesuaikan dengan pengaturan anda
-4. Upload file database.sql ke database Postgre anda.
-4. And its live!
+3. Upload file database.sql ke database Postgre anda.
+4. Edit the config.php file. Sesuaikan dengan pengaturan anda
+5. And its live!
 
 ### Note
 1. Database yang digunakan adalah Postgresql dengan ekstensi PostGIS
