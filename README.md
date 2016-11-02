@@ -35,4 +35,4 @@ Data yang disajikan adalah hasil penggabungan pendapat para ahli, pemangku kepen
 5. And its live!
 
 ### Note
-1. Database yang digunakan adalah Postgresql dengan ekstensi PostGIS
+1. DBMS yang digunakan adalah Postgresql dengan ekstensi PostGIS
